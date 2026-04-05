@@ -26,5 +26,3 @@ Analyzed raw e-commerce data to extract meaningful insights and support business
 - Python (Pandas, NumPy)  
 - Power BI  
 
-## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
